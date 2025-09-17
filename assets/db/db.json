@@ -1,0 +1,12 @@
+[
+  { "id": 1, "nombre": "Pulido y Abrillantado", "precio": "30000" },
+  { "id": 2, "nombre": "Lavado Completo al detalle", "precio": "6000" },
+  { "id": 3, "nombre": "Lavado Completo + Encerado", "precio": "8000" },
+  { "id": 4, "nombre": "Revivido de Plasticos Secos", "precio": "15000" },
+  {
+    "id": 5,
+    "nombre": "Instalacion de leds o giros fijos/secuenciales",
+    "precio": "35000"
+  },
+  { "id": 6, "nombre": "Ploteo", "precio": "150000" }
+]
